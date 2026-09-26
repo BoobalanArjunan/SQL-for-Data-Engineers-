@@ -1,4 +1,4 @@
-
+--New Drop Tbale
 DROP TABLE IF EXISTS fact_sales;
 DROP TABLE IF EXISTS dim_date;
 DROP TABLE IF EXISTS dim_customer;
