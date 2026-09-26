@@ -1,4 +1,5 @@
 -- VIEWS
+-- New Viewa
 CREATE VIEW dedup_view AS
 SELECT 
 	subquery.*
