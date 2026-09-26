@@ -1,4 +1,4 @@
--- FUNCTIONS
+-- FUNCTIONS Created
 
 DELIMITER //
 CREATE FUNCTION square_it(x INT)
