@@ -1,4 +1,4 @@
--- REAL TIME SCENARIOS
+-- REAL TIME SCENARIO
 
 -- SCENARIO 1 [Finding the nth value)
 SELECT 
